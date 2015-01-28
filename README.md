@@ -1,3 +1,4 @@
+******  I had technical difficulties with ipython, so I had to turn in python code***
 # Chart data
 
 ## Description
